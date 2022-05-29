@@ -27,12 +27,12 @@
 .content {   
   display: block;
   width: 500px;
-  margin: 0 auto 0  
+  margin: 0 auto 0;
 }
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task-row-wrapper {
   display: flex;
@@ -112,7 +112,7 @@ input,button{
 }
 .list-item .input-text {
   width: 226px;
-  display: none
+  display: none;
 }
 .delete__img {
   height: 2em;
@@ -130,7 +130,7 @@ input,button{
 /* Edit Task */
 .edit-item .input-text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 .edit-item .task-lable {
   display: none;
